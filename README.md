@@ -7,9 +7,11 @@
 
 ---
 
+**Visita nuestro [Repositorio ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/github.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/)**
+
 **Para más información, visita nuestro [Wiki ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/question.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/wiki)**
 
--------
+---
 ## Índice
 
 - [Link de Descarga](#link-de-descarga)
@@ -19,7 +21,7 @@
 - [Agradecimientos](#agradecimientos)
 - [Referencias](#referencias)
 
--------
+---
 ## Link de Descarga
 
 El repositorio puedes descargarlo del siguiente link: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/archive/master.zip)
