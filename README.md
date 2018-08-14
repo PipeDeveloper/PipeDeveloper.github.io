@@ -26,7 +26,7 @@ El repositorio puedes descargarlo del siguiente link:
 
 [Releases ![](https://png.icons8.com/metro/16/000000/download.png)](https://github.com/eventMacrosBR/up_1_ao_99_todas_classes-bro/releases)
 
-[Releases! [](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)] (https://github.com/PipeDeveloper/Openkore-Configs/archive/master.zip)
+[Releases! [](https://cdn.icon-icons.com/icons2/200/PNG/256/Folder_Downloads_24307.png)] (https://github.com/PipeDeveloper/Openkore-Configs/archive/master.zip)
 
 Recuerda utilizar los archivos que necesites y/o pienses utilizar.
 
