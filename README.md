@@ -73,4 +73,4 @@ Documentación y enlaces útiles para trabajar con el proyecto y eventMacros en 
 
 
 ---
-Copyright ® 2018 PipeDeveloper. Todos los derechos reservados. Políticas de Privacidad y Seguridad.
+Copyright ® 2018 [PipeDeveloper](https://github.com/PipeDeveloper). Todos los derechos reservados. Políticas de Privacidad y Seguridad.
