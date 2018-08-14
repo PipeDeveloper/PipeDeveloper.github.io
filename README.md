@@ -34,7 +34,7 @@ Para otras descargas visita nuestra sección de releases: [Releases ![](https://
 
 1. Haga click en el enlace de [descarga](https://github.com/PipeDeveloper/Openkore-Configs/releases).
 
-2. Seleccione la carpeta de acuerdo a la clase que se quiera trabajar.
+2. Descomprima la carpeta `Openkore-Configs.zip` y seleccione la carpeta de acuerdo a la clase que se quiera trabajar.
 
 3. Mueva y reemplace los archivos en la carpeta principal de Openkore.
     - Es recomendable hacerlo con todos, tanto control como plugins.
@@ -49,7 +49,7 @@ Para otras descargas visita nuestra sección de releases: [Releases ![](https://
 
 **Esto es opcional, para más informacion consulte la sección avanzada de nuestra [Wiki](https://github.com/PipeDeveloper/Openkore-Configs/wiki)**
 
-1. Clone el proyecto desde nuestro [repositorio](https://github.com/PipeDeveloper/Openkore-Configs/archive/master.zip).
+1. Clone el proyecto desde nuestro [repositorio](https://github.com/PipeDeveloper/Openkore-Configs/).
 2. Modifique el archivo `config.pm` de acuerdo a la clase trabajada.
 3. Utilize los archivos `generador-eventmacros-windows.bat` (Windows 7/8/8.1/10) o` generador-eventmacros-linux-osx.sh` (Linux / OsX) para generar su macro.
 4. Para actualizar los macros mediante el repositorio:
