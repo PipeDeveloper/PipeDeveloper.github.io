@@ -16,7 +16,7 @@
 - [Configuraciones Personalizadas](#configuraciones-personalizadas)
 - [Modificar y Mantener Builds/Updates](#modificar-y-mantener-buildsupdates)
 - [Agradecimientos](#agradecimientos)
-- [Funcionalidades](#funcionalidades)
+- [Estado de Macros](#estado-de-macros)
 - [Referencias](#referencias)
 
 ---
@@ -40,7 +40,7 @@ Para otras descargas visita nuestra sección de releases: [Releases ![](https://
   
   
 4. En el caso que el macro requiera un **plugin** descarguelo [aqui](https://github.com/) o desde nuestro [repositorio](https://github.com/PipeDeveloper/Openkore-Configs/releases) y agreguelo a la carpeta principal de Openkore.
-    - Por defecto nuestros plugins están agregados en **sys.txt** en la carpta control, si desea utilizar otros plugins no olvide agregarlos! (más informacion consulte nuestra [Wiki](https://github.com/PipeDeveloper/Openkore-Configs/wiki).
+    - Por defecto nuestros plugins están agregados en **sys.txt** en la carpta control, si desea utilizar otros plugins no olvide agregarlos! (más informacion consulte nuestra [Wiki](https://github.com/PipeDeveloper/Openkore-Configs/wiki)).
 
 
 ---
@@ -49,11 +49,15 @@ Para otras descargas visita nuestra sección de releases: [Releases ![](https://
 ---
 ## Modificar y Mantener Builds/Updates
 
+
+
 ---
 ## Agradecimientos
 
 ---
-## Funcionalidades
+## Estado de Macros
+
+Puedes checkear el estado de los macros actuales, quest y configs en el siguiente [**Link** ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/Warning.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/wiki).
 
 ---
 ## Referencias
