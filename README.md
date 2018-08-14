@@ -10,13 +10,13 @@
 
 ## Índice
 
-- [Referencias](#Referencias)
-- [Link de Descarga](#Link-de-Descarga)
-- [Instrucciones de Instalación](#iInstrucciones-de-Instalación)
-- [Configuraciones Personalizadas](#Configuraciones-Personalizadas)
-- [Modificar y Mantener Builds/Updates](#Modificar-y-Mantener-Builds/Updates)
-- [Agradecimientos](#Agradecimientos)
-- [Funcionalidades](#Funcionalidades)
+- [Referencias](#referencias)
+- [Link de Descarga](#link-de-descarga)
+- [Instrucciones de Instalación](#instrucciones-de-instalación)
+- [Configuraciones Personalizadas](#configuraciones-personalizadas)
+- [Modificar y Mantener Builds/Updates](#modificar-y-mantener-builds/updates)
+- [Agradecimientos](#agradecimientos)
+- [Funcionalidades](#funcionalidades)
 
 ---
 
