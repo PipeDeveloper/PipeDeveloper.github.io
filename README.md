@@ -22,17 +22,11 @@
 ---
 ## Link de Descarga
 
-El repositorio puedes descargarlo del siguiente link:
-
-[Releases ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://github.com/eventMacrosBR/up_1_ao_99_todas_classes-bro/releases)
-
-[Releases ![](https://png.icons8.com/color/16/000000/downloads.png)](https://github.com/PipeDeveloper/Openkore-Configs/archive/master.zip)
-
-
+El repositorio puedes descargarlo del siguiente link: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/archive/master.zip)
 
 Recuerda utilizar los archivos que necesites y/o pienses utilizar.
 
-Para otras descargars visita nuestra sección de releases: 
+Para otras descargars visita nuestra sección de releases: [Releases ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/releases)
 
 ---
 ## Instrucciones de Instalación
