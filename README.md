@@ -19,7 +19,7 @@
 - [Agradecimientos](#agradecimientos)
 - [Referencias](#referencias)
 
----
+
 ## Link de Descarga
 
 El repositorio puedes descargarlo del siguiente link: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/archive/master.zip)
@@ -28,7 +28,7 @@ Para otras descargas visita nuestra sección de releases: [Releases ![](https://
 
 **Recuerda utilizar los archivos que vas a utilizar**
 
----
+
 ## Instrucciones de Instalación
 
 1. Haga click en el enlace de [descarga](https://github.com/PipeDeveloper/Openkore-Configs/releases).
@@ -42,7 +42,7 @@ Para otras descargas visita nuestra sección de releases: [Releases ![](https://
 4. En el caso que el macro requiera un **plugin** descarguelo [aqui](https://github.com/) o desde nuestro [repositorio](https://github.com/PipeDeveloper/Openkore-Configs/releases) y agreguelo a la carpeta principal de Openkore.
     - Por defecto nuestros plugins están agregados en **sys.txt** en la carpta control, si desea utilizar otros plugins no olvide agregarlos! (más informacion consulte nuestra [Wiki](https://github.com/PipeDeveloper/Openkore-Configs/wiki)).
 
----
+
 ## Modificar y Mantener Builds/Updates
 
 **Esto es opcional, para más informacion consulte la sección avanzada de nuestra [Wiki](https://github.com/PipeDeveloper/Openkore-Configs/wiki)**
@@ -59,16 +59,16 @@ Para otras descargas visita nuestra sección de releases: [Releases ![](https://
 
 5. Utilize el generador nuevamente para generar la nueva macro actualizada con sus configuraciones ya aplicadas.
 
----
+
 ## Estado de Macros
 
 Puedes checkear el estado de los macros actuales, quest y configs en el siguiente [**Link** ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/Warning.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/wiki).
 
----
+
 ## Agradecimientos
 
 
 
----
+
 ## Referencias
 Documentación y enlaces útiles para trabajar con el proyecto y eventMacros en general accede a nuestra [Wiki ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/question.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/wiki)
