@@ -76,4 +76,4 @@ Puedes checkear el estado de los macros actuales, quest y configs en el siguient
 
 
 ## Referencias
-Documentación y enlaces útiles para trabajar con el proyecto y eventMacros en general accede a nuestra [Wiki ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/question.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/wiki)
+Documentación y enlaces útiles para trabajar con el proyecto y eventMacros en nuestra [Wiki ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/question.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/wiki)
