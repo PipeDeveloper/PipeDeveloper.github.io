@@ -8,18 +8,16 @@
 **Para más información, visita nuestro [Wiki ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/question.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/wiki)**
 
 ---
-
 ## Índice
 
 - [Link de Descarga](#link-de-descarga)
 - [Instrucciones de Instalación](#instrucciones-de-instalación)
-- [Configuraciones Personalizadas](#configuraciones-personalizadas)
 - [Modificar y Mantener Builds/Updates](#modificar-y-mantener-buildsupdates)
 - [Estado de Macros](#estado-de-macros)
 - [Agradecimientos](#agradecimientos)
 - [Referencias](#referencias)
 
-
+---
 ## Link de Descarga
 
 El repositorio puedes descargarlo del siguiente link: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/archive/master.zip)
