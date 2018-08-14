@@ -14,7 +14,7 @@
 - [Link de Descarga](#link-de-descarga)
 - [Instrucciones de Instalación](#instrucciones-de-instalación)
 - [Configuraciones Personalizadas](#configuraciones-personalizadas)
-- [Modificar y Mantener Builds/Updates](#modificar-y-mantener-builds/updates)
+- [Modificar y Mantener Builds/Updates](#modificar-y-mantener-buildsupdates)
 - [Agradecimientos](#agradecimientos)
 - [Funcionalidades](#funcionalidades)
 
