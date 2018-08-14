@@ -22,6 +22,11 @@
 ---
 ## Link de Descarga
 
+El repositorio puedes descargarlo del siguiente link: [Releases ![](https://png.icons8.com/metro/16/000000/download.png)](https://github.com/eventMacrosBR/up_1_ao_99_todas_classes-bro/releases)
+Recuerda utilizar los archivos que necesites y/o pienses utilizar.
+
+Para otras descargars visita nuestra sección de releases: 
+
 ---
 ## Instrucciones de Instalación
 
