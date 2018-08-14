@@ -24,10 +24,9 @@
 
 El repositorio puedes descargarlo del siguiente link: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/archive/master.zip)
 
+Para otras descargargas visita nuestra sección de releases: [Releases ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/releases)
 
-Recuerda utilizar los archivos que necesites y/o pienses utilizar.
-
-Para otras descargars visita nuestra sección de releases: [Releases ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/releases)
+**Recuerda utilizar los archivos que vas a utilizar**
 
 ---
 ## Instrucciones de Instalación
