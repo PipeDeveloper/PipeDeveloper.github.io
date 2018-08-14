@@ -1,9 +1,9 @@
-[![GitHub license](https://img.shields.io/github/license/)](https://github.com/blob/master/LICENSE)
-[![Docker Build status](https://img.shields.io/docker/build/)](https://hub.docker.com/r//)
-[![GitHub issues](https://img.shields.io/github/issues/)](https://github.com//issues)
-[![GitHub forks](https://img.shields.io/github/forks/)](https://github.com//network)
-[![GitHub stars](https://img.shields.io/github/stars/)](https://github.com//stargazers)
-[![Github All Releases](https://img.shields.io/github/downloads/)](https://github.com//releases)
+[![GitHub license](https://img.shields.io/github/license/PipeDeveloper/Openkore-Configs.svg)](https://github.com/blob/PipeDeveloper/Openkore-Configs/master/LICENSE)
+[![Docker Build status](https://img.shields.io/docker/build/PipeDeveloper/Openkore-Configs.svg)](https://hub.docker.com/r/PipeDeveloper/Openkore-Configs/)
+[![GitHub issues](https://img.shields.io/github/issues/PipeDeveloper/Openkore-Configs.svg)](https://github.com/PipeDeveloper/Openkore-Configs/issues)
+[![GitHub forks](https://img.shields.io/github/forks/PipeDeveloper/Openkore-Configs.svg)](https://github.com/PipeDeveloper/Openkore-Configs/network)
+[![GitHub stars](https://img.shields.io/github/stars/PipeDeveloper/Openkore-Configs.svg)](https://github.com/PipeDeveloper/Openkore-Configs/stargazers)
+[![Github All Releases](https://img.shields.io/github/downloads/PipeDeveloper/Openkore-Configs.svg)](https:/PipeDeveloper/Openkore-Configs/github.com//releases)
 
 ---
 
