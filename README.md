@@ -5,9 +5,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/PipeDeveloper/Openkore-Configs.svg)](https://github.com/PipeDeveloper/Openkore-Configs/stargazers)
 [![Github All Releases](https://img.shields.io/github/downloads/PipeDeveloper/Openkore-Configs/total.svg)](https://github.com/PipeDeveloper/Openkore-Configs/releases)
 
+---
+
 **Para más información, visita nuestro [Wiki ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/question.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/wiki)**
 
----
+-------
 ## Índice
 
 - [Link de Descarga](#link-de-descarga)
@@ -17,7 +19,7 @@
 - [Agradecimientos](#agradecimientos)
 - [Referencias](#referencias)
 
----
+-------
 ## Link de Descarga
 
 El repositorio puedes descargarlo del siguiente link: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/archive/master.zip)
@@ -25,8 +27,6 @@ El repositorio puedes descargarlo del siguiente link: [Descargar ![](https://git
 Para otras descargas visita nuestra sección de releases: [Releases ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/releases)
 
 **Recuerda utilizar los archivos que vas a utilizar**
-
-
 
 ## Instrucciones de Instalación
 
@@ -40,7 +40,6 @@ Para otras descargas visita nuestra sección de releases: [Releases ![](https://
   
 4. En el caso que el macro requiera un **plugin** descarguelo [aqui](https://github.com/PipeDeveloper/Openkore-Configs/releases) o desde nuestro [repositorio](https://github.com/PipeDeveloper/Openkore-Configs/) y agreguelo a la carpeta principal de Openkore.
     - Por defecto nuestros plugins están agregados en **sys.txt** en la carpta control, si desea utilizar otros plugins no olvide agregarlos! (más informacion consulte nuestra [Wiki](https://github.com/PipeDeveloper/Openkore-Configs/wiki)).
-
 
 ## Modificar y Mantener Builds/Updates
 
@@ -58,12 +57,12 @@ Para otras descargas visita nuestra sección de releases: [Releases ![](https://
 
 5. Utilize el generador nuevamente para generar la nueva macro actualizada con sus configuraciones ya aplicadas.
 
-
 ## Estado de Macros
 
 Puedes corroborar el estado de los macros actuales, quest y configs en el siguiente [**Link** ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/Warning.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/wiki).
 
 ## Agradecimientos
+
 Derechos de autor reservados a [Nipodemos](https://github.com/Nipodemos) y [Contribuidores](https://github.com/eventMacrosBR/up_1_ao_99_todas_classes-bro/graphs/contributors) en el proyecto bRO.
 
 Derechos de autor a [Zelecktor](https://github.com/Zelecktor) y colaboradores en este proyecto.
