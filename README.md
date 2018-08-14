@@ -31,7 +31,12 @@ Para otras descargas visita nuestra sección de releases: [Releases ![](https://
 ---
 ## Instrucciones de Instalación
 
-1. Haga click en el enlace de [Descarga](https://github.com/PipeDeveloper/Openkore-Configs/releases)
+1. Haga click en el enlace de [descarga](https://github.com/PipeDeveloper/Openkore-Configs/releases).
+2. Seleccione la carpeta de acuerdo a la clase que se quiera trabajar.
+3. Mueva y reemplace los archivos en la carpeta principal de Openkore
+  - Es recomendable hacerlo con todos, tanto control como plugins
+4. En el caso que el macro requiera un **plugin** descarguelo [aqui](https://github.com/) o desde nuestro [repositorio](https://github.com/PipeDeveloper/Openkore-Configs/releases) y agreguelo a la carpeta principal de Openkore.
+  - Por defecto nuestros plugins están agregados en **sys.txt** en la carpta control, si desea utilizar otros plugins no olvide agregarlos! (más informacion consulte nuestra [Wiki](https://github.com/PipeDeveloper/Openkore-Configs/wiki)
 
 
 ---
