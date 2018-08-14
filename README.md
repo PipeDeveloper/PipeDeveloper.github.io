@@ -1,4 +1,4 @@
-[![GitHub license](https://img.shields.io/github/license/PipeDeveloper/Openkore-Configs.svg)](https://github.com/blob/PipeDeveloper/Openkore-Configs/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/PipeDeveloper/Openkore-Configs.svg)](https://github.com/PipeDeveloper/Openkore-Configs/blob/master/LICENSE)
 [![Docker Build status](https://img.shields.io/docker/build/PipeDeveloper/Openkore-Configs.svg)](https://hub.docker.com/r/PipeDeveloper/Openkore-Configs/)
 [![GitHub issues](https://img.shields.io/github/issues/PipeDeveloper/Openkore-Configs.svg)](https://github.com/PipeDeveloper/Openkore-Configs/issues)
 [![GitHub forks](https://img.shields.io/github/forks/PipeDeveloper/Openkore-Configs.svg)](https://github.com/PipeDeveloper/Openkore-Configs/network)
