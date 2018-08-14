@@ -26,7 +26,16 @@ El repositorio puedes descargarlo del siguiente link:
 
 [Releases ![](https://png.icons8.com/metro/16/000000/download.png)](https://github.com/eventMacrosBR/up_1_ao_99_todas_classes-bro/releases)
 
+[Releases ![](https://png.icons8.com/color/16/000000/downloads.png)](https://github.com/eventMacrosBR/up_1_ao_99_todas_classes-bro/releases)
+
+[Releases ![](https://png.icons8.com/color/16/000000/downloads.png)](https://github.com/PipeDeveloper/Openkore-Configs/archive/master.zip)
+
+
 [Releases! [](https://png.icons8.com/color/16/000000/downloads.png)](https://github.com/PipeDeveloper/Openkore-Configs/archive/master.zip)
+
+
+
+
 
 Recuerda utilizar los archivos que necesites y/o pienses utilizar.
 
