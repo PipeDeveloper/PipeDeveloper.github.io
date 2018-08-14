@@ -31,6 +31,9 @@ Para otras descargas visita nuestra sección de releases: [Releases ![](https://
 ---
 ## Instrucciones de Instalación
 
+1. Haga click en el enlace de [Descarga)] (https://github.com/PipeDeveloper/Openkore-Configs/releases)
+
+
 ---
 ## Configuraciones Personalizadas
 
