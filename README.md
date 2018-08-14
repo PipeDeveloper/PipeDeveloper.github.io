@@ -64,9 +64,13 @@ Para otras descargas visita nuestra sección de releases: [Releases ![](https://
 Puedes corroborar el estado de los macros actuales, quest y configs en el siguiente [**Link** ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/Warning.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/wiki).
 
 ## Agradecimientos
+Derechos de autor reservados a [Nipodemos](https://github.com/Nipodemos) y [Contribuidores](https://github.com/eventMacrosBR/up_1_ao_99_todas_classes-bro/graphs/contributors) en el proyecto bRO.
 
-
-
+Derechos de autor a [Zelecktor](https://github.com/Zelecktor) y colaboradores en este proyecto.
 
 ## Referencias
 Documentación y enlaces útiles para trabajar con el proyecto y eventMacros en nuestra [Wiki ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/question.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/wiki)
+
+
+---
+Copyright ® 2018 PipeDeveloper. Todos los derechos reservados. Políticas de Privacidad y Seguridad.
