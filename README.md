@@ -11,17 +11,13 @@
 
 ## Índice
 
-- [Referencias](#referencias)
 - [Link de Descarga](#link-de-descarga)
 - [Instrucciones de Instalación](#instrucciones-de-instalación)
 - [Configuraciones Personalizadas](#configuraciones-personalizadas)
 - [Modificar y Mantener Builds/Updates](#modificar-y-mantener-buildsupdates)
 - [Agradecimientos](#agradecimientos)
 - [Funcionalidades](#funcionalidades)
-
----
-
-## Referencias
+- [Referencias](#referencias)
 
 ---
 ## Link de Descarga
@@ -40,3 +36,7 @@
 
 ---
 ## Funcionalidades
+
+---
+## Referencias
+Documentación y enlaces útiles para trabajar con el proyecto y eventMacros en general accede a nuestra [Wiki](https://github.com/PipeDeveloper/Openkore-Configs/wiki)
