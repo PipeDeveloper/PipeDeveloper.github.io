@@ -22,7 +22,7 @@
 ---
 ## Link de Descarga
 
-El repositorio puedes descargarlo del siguiente link: [Releases! [](https://raw.githubusercontent.com/PipeDeveloper/PipeDeveloper.github.io/master/assets/css/icon-download.ico)] (https://github.com/PipeDeveloper/Openkore-Configs/archive/master.zip)
+El repositorio puedes descargarlo del siguiente link: [Releases! [](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)] (https://github.com/PipeDeveloper/Openkore-Configs/archive/master.zip)
 
 Recuerda utilizar los archivos que necesites y/o pienses utilizar.
 
