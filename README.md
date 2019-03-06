@@ -14,7 +14,7 @@
 ## Índice General de la Página
 
 - [Links de Descargas](#links-de-descargas)
-- [Tengo un Problema!](#tengo-un-problema!)
+- [¡Tengo un Problema!](#¡tengo-un-problema!)
 - [Información Adicional](#información-adicional)
 - [Agradecimientos](#agradecimientos)
 - [Referencias](#referencias)
@@ -65,7 +65,7 @@ Todos los links de descargas serán dirigidos a una carpeta compartida en **Goog
    - Jitbit Macro Recorder: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://pipedeveloper.page.link/JitbitMacroRecorder)
 
 ---
-## Tengo un Problema!
+## ¡Tengo un Problema!
 
 Por alguna razón siempre existen detalles. Si tuviste algún problema en la instalación o en la descarga (links caidos) ¡no dudes en contactarte!. Escribenos **[aquí](https://github.com/PipeDeveloper/PipeDeveloper.github.io/issues)** y te brindaremos soporte.
 
