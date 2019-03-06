@@ -25,6 +25,8 @@ Todos los links de descargas serán dirigidos a una carpeta compartida en **Goog
 
 **Programas Utilidad General**
 
+   - Google Earth: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://pipedeveloper.page.link/GoogleEarth)
+
    - WinRAR: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://pipedeveloper.page.link/WinRAR)
 
 **Programas Geológicos**
