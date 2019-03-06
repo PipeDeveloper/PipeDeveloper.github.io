@@ -31,7 +31,7 @@ Todos los links de descargas serán dirigidos a una carpeta compartida en **Goog
 
    - ArcGis: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://pipedeveloper.page.link/ArcGis)
 
-   - Leapfrog: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](PONER PAGINA)
+   - Leapfrog (No disponible aún): [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](PONER PAGINA)
 
    - Maptek Vulcan: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://pipedeveloper.page.link/MaptekVulcan)
 
