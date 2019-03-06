@@ -12,7 +12,7 @@
 **Para más información, visita nuestro [Wiki ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/question.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/wiki)**
 
 ---
-## Índice
+## Índice General de la Página
 
 - [Link de Descarga](#link-de-descarga)
 - [Instrucciones de Instalación](#instrucciones-de-instalación)
@@ -22,9 +22,9 @@
 - [Referencias](#referencias)
 
 ---
-## Link de Descarga
-
-El repositorio puedes descargarlo del siguiente link: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/archive/master.zip)
+## Links de Descarga
+    - Programas Geológicos
+    ArcGis: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)]   (https://github.com/PipeDeveloper/Openkore-Configs/archive/master.zip)
 
 Para otras descargas visita nuestra sección de releases: [Releases ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/releases)
 
