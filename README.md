@@ -6,7 +6,7 @@
 
 ---
 
-**Visita nuestro [Repositorio ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/github.png?raw=true)](https://github.com/PipeDeveloper/Openkore-Configs/)**
+**Visita nuestro [Repositorio ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/github.png?raw=true)](https://github.com/PipeDeveloper/PipeDeveloper.github.io/)**
 
 **Para más información, visita nuestro [Wiki ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/question.png?raw=true)](https://github.com/PipeDeveloper/PipeDeveloper.github.io/wiki)**
 
@@ -14,11 +14,14 @@
 ## Índice General de la Página
 
 - [Links de Descargas](#links-de-descargas)
+- [Información Adicional](#información-adicional)
 - [Agradecimientos](#agradecimientos)
 - [Referencias](#referencias)
 
 ---
 ## Links de Descargas
+
+Todos los links de descargas serán dirigidos a una carpeta compartida en **Google Drive**, en ella estarán disponibles una o más versiones del programa. Todas las versiones cuentan con licencia original o "pirata" para asegurar la máxima experiencia. Otros programas de costo elevado cuentan con su respectivo crack.
 
 **Programas Utilidad General**
 
@@ -59,6 +62,9 @@
    - Jitbit Macro Recorder: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://pipedeveloper.page.link/JitbitMacroRecorder)
 
 ---
+## Información Adicional
+
+En Construcción... (comming soon)
 
 ## Agradecimientos
 
