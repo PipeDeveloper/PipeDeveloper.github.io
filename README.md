@@ -54,7 +54,7 @@
 
    - Navicat Premium: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://pipedeveloper.page.link/Navicat)
 
-**Extras y Misceláneos*
+**Extras y Misceláneos**
 
    - Jitbit Macro Recorder: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](https://pipedeveloper.page.link/JitbitMacroRecorder)
 
