@@ -1,4 +1,2 @@
----
----
-
-@import 'jekyll-theme-cayman';
+theme: jekyll-theme-cayman
+title: PipeDeveloper WebPage
