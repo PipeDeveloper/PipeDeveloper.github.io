@@ -77,7 +77,7 @@ Todos los links de descargas serán dirigidos a una carpeta compartida en **Goog
 
    - 7-Zip: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/7z_24x24.png?raw=true)](https://pipedeveloper.page.link/7z)
    
-   -CCleaner: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/ccleaner_24x24.png?raw=true)](https://pipedeveloper.page.link/CCleaner)
+   - CCleaner: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/ccleaner_24x24.png?raw=true)](https://pipedeveloper.page.link/CCleaner)
 
 
 ---
