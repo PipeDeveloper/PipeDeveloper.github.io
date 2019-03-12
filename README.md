@@ -40,6 +40,9 @@ Todos los links de descargas serán dirigidos a una carpeta compartida en **Goog
    - Leapfrog (No disponible aún): [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](PONER PAGINA)
 
    - Maptek Vulcan: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/maptek_vulcan_24x24.png?raw=true)](https://pipedeveloper.page.link/MaptekVulcan)
+   
+   - Autodesk AutoCAD: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/autodesk2.png_24x24.png?raw=true)](https://pipedeveloper.page.link/AutoCAD)
+[ ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/autocad-badge_24x24.png?raw=true)](https://pipedeveloper.page.link/AutoCAD)
 
 **Programas de Edición de Imágenes**
 
