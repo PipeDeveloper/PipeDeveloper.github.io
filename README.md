@@ -75,6 +75,8 @@ Todos los links de descargas serán dirigidos a una carpeta compartida en **Goog
    - AVG TuneUp Utilities: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/AVG_Tuneup_24x24.png?raw=true)](https://pipedeveloper.page.link/TuneUP)
 [ ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/TuneUp_Utilities_24x24.png?raw=true)](https://pipedeveloper.page.link/TuneUP)
 
+   - 7-Zip: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/7z_24x24.png?raw=true)](https://pipedeveloper.page.link/7z)
+
 ---
 ## ¡Tengo un Problema!
 
