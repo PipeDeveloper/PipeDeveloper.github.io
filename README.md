@@ -33,6 +33,9 @@ Todos los links de descargas serán dirigidos a una carpeta compartida en **Goog
 **Programas Geológicos**
 
    - ArcGis: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/ArcMap24.png?raw=true)](https://pipedeveloper.page.link/ArcGis)
+   
+   - QGIS : [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/QGIS-24x24.png?raw=true)](https://pipedeveloper.page.link/QGIS)
+[ ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/lQGIS2_24x24.png?raw=true)](https://pipedeveloper.page.link/QGIS)
 
    - Leapfrog (No disponible aún): [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/assets/css/icon-download.png?raw=true)](PONER PAGINA)
 
