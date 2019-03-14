@@ -63,6 +63,8 @@ Todos los links de descargas serán dirigidos a una carpeta compartida en **Goog
 [ ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/maple18_24x24.png?raw=true)](https://pipedeveloper.page.link/Maple)
 
    - Matlab: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/MATLAB.png_24x24.png?raw=true)](https://pipedeveloper.page.link/Mathlab)
+   
+   - GNU Octave: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/Octave.png_24x24.png?raw=true)](https://pipedeveloper.page.link/Octave)
 
 **Herramientas de Formateo/Parcición/Clonar Discos Duros y Almacenamiento**
 
