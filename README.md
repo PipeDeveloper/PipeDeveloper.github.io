@@ -55,9 +55,12 @@ Todos los links de descargas serán dirigidos a una carpeta compartida en **Goog
 
    - Sony Vegas: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/Sony_vegas_24x24.png?raw=true)](https://pipedeveloper.page.link/SonyVegas)
 
-**Programas de Estadistica**
+**Programas Matemáticos y Estadistica**
 
    - Origin: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/origin_24x24.png?raw=true)](https://pipedeveloper.page.link/Origin)
+   
+   - Maple: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/Maple_24x24.png?raw=true)](https://pipedeveloper.page.link/Maple)
+[ ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/maple18_24x24.png?raw=true)](https://pipedeveloper.page.link/Maple)
 
 **Herramientas de Formateo/Parcición/Clonar Discos Duros y Almacenamiento**
 
