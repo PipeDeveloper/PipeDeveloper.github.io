@@ -62,7 +62,7 @@ Todos los links de descargas serán dirigidos a una carpeta compartida en **Goog
    - Maple: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/Maple_24x24.png?raw=true)](https://pipedeveloper.page.link/Maple)
 [ ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/maple18_24x24.png?raw=true)](https://pipedeveloper.page.link/Maple)
 
-   - Mathlab: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/MATLAB.png_24x24.png?raw=true)](https://pipedeveloper.page.link/Mathlab)
+   - Matlab: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/MATLAB.png_24x24.png?raw=true)](https://pipedeveloper.page.link/Mathlab)
 
 **Herramientas de Formateo/Parcición/Clonar Discos Duros y Almacenamiento**
 
