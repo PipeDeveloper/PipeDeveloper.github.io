@@ -79,6 +79,8 @@ Todos los links de descargas serán dirigidos a una carpeta compartida en **Goog
 
 **Extras y Misceláneos**
 
+   - Rhinoceros: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/rhino_24x24.png?raw=true)](https://pipedeveloper.page.link/Rhino)
+
    - Jitbit Macro Recorder: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/Jitbit_Macro_Recorder_24x24.png?raw=true)](https://pipedeveloper.page.link/JitbitMacroRecorder)
 [ ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/Jitbit_Macro_Recorder2_24x24.png?raw=true)](https://pipedeveloper.page.link/JitbitMacroRecorder)
    
