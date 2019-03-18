@@ -118,7 +118,7 @@ PipeDeveloper WebPage está orientada a compartir herramientas para su uso educa
 
 Como verán los enlaces son **directos y sin publicidad** para garantizar una máxima experiencia para el usuario. Como colaboradores a este proyecto, nos interesa la ayuda colectiva y no lucrar con softwares y/o contenido cuales no tenemos derechos de autor. Apoyamos la idea de softwares de distribución libre y nos sentimos pagados con el hecho que los usen, de esa forma se aporta con contenidos, scripts o mods que ayuden al desarrollo de estos programas.
 
-La página cuenta con **certificado SSL** y no usamos **"Java Scripts"** para garantizar la seguridad de todos los usuarios. El código fuente de la página puede ser visto en el [repositorio !](https://github.com/PipeDeveloper/PipeDeveloper.github.io/) y puede ser usado por cualquiera con total libertad, preferiblemente para efectos educativos.
+La página cuenta con **certificado SSL** y no usamos **"Java Scripts"** para garantizar la seguridad de todos los usuarios. El código fuente de la página puede ser visto en el [repositorio](https://github.com/PipeDeveloper/PipeDeveloper.github.io/) y puede ser usado por cualquiera con total libertad, preferiblemente para efectos educativos.
 
 Todos los enlaces cuentan con un acortador desde **Firebase** plataforma certificada de Google y son nombrados con la nomenclatura 
 **https://pipedeveloper.page.link/"NOMBRE DEL PROGRAMA"**. Luego son redireccionados a la plataforma **Google Drive** como carpeta compartida, donde se irán agregando versiones más actualizadas de los programas en el futuro, sin perder el enlace. A modo personal Google Drive es una plataforma bastante amigable y sus servidores son rápidos en la descarga.
