@@ -69,6 +69,8 @@ Todos los links de descargas serán dirigidos a una carpeta compartida en **Goog
 **Herramientas de Formateo/Parcición/Clonar Discos Duros y Almacenamiento**
 
    - AOMEI Partition Assistant: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/AOMEI_Partition_Assistant_24x24.png?raw=true)](https://pipedeveloper.page.link/AOMEI)
+   
+   - Acronis True Image: [Descargar ![](https://github.com/PipeDeveloper/PipeDeveloper.github.io/blob/master/icon/Acronis-True-Image-24x24.png?raw=true)](https://pipedeveloper.page.link/Acronis)
 
 **Programas Base de Datos**
 
