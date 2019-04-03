@@ -28,7 +28,7 @@ Todos los links de descargas serán dirigidos a una carpeta compartida en **Goog
 
 Para acceder a los enlaces de descargas visita:
 
-https://terreno-online.tk
+[https://terreno-online.tk](https://terreno-online.tk)
 
 
 ---
