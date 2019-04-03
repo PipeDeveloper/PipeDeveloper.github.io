@@ -25,6 +25,7 @@
 Todos los links de descargas serán dirigidos a una carpeta compartida en **Google Drive**, en ella estarán disponibles una o más versiones del programa. Todas las versiones cuentan con licencia original o "pirata" para asegurar la máxima experiencia. Otros programas de costo elevado cuentan con su respectivo crack.
 
 **Repositorio**
+
 Para acceder a los enlaces de descargas visita:
 
 https://terreno-online.tk
